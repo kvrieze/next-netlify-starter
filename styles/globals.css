@@ -35,6 +35,9 @@ code {
 }
 
 Blueandbig {
-  font-size=30px;
-  color:blue
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: right;
 }
