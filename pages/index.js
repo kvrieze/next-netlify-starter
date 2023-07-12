@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to Group Travel Odyssey's New Test Page!" />
+        <Header title="Welcome to Group Travel Odyssey's New Page!" />
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
