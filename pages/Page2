@@ -19,6 +19,10 @@
 <body>
   <div class="pane" id="pane1">
     <!-- Content for pane 1 -->
+       <Header title="This should be pane one!" />
+        <p className="description">
+          Get started by editing <code>pages/index.js</code>
+        </p>
   </div>
   <div class="pane" id="pane2">
     <!-- Content for pane 2 -->
