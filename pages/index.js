@@ -13,8 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to Group Travel Odyssey's New Test Page!" />
         <p className="Blueandbig">
-         Get started by editing <code>pages/index.js</code>
-    
+          Get started by editing <code>pages/index.js</code>
         </p>
       </main>
 
